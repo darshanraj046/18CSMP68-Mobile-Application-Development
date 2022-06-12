@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WallpaperChangerApp</string>
+    <string name="wallpaper_changer_app">Wallpaper Changer App</string>
+    <string name="click_to_change_wallpaper">Click to change Wallpaper</string>
+</resources>
